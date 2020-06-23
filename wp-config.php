@@ -25,13 +25,13 @@ define( 'DISALLOW_FILE_EDIT', true );
 
 // ** Thiết lập MySQL - Bạn có thể lấy các thông tin này từ host/server ** //
 /** Tên database MySQL */
-define( 'DB_NAME', 'u893383716_tkdm' );
+define( 'DB_NAME', 'wordpress' );
 
 /** Username của database */
-define( 'DB_USER', 'u893383716_tkdm' );
+define( 'DB_USER', 'root' );
 
 /** Mật khẩu của database */
-define( 'DB_PASSWORD', 'dbtkdm#0407' );
+define( 'DB_PASSWORD', 'root' );
 
 /** Hostname của database */
 define( 'DB_HOST', 'localhost' );
